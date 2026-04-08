@@ -1,4 +1,4 @@
-<img width="852" height="675" alt="Screenshot 2026-04-08 150002" src="https://github.com/user-attachments/assets/ae849a0e-7238-405d-a952-7404a9074ffe" /># 🎨 Air Canvas Project
+# 🎨 Air Canvas Project
 
 A Virtual Air Canvas that allows users to draw on screen using hand gestures or a colored pointer detected through a webcam.
 
