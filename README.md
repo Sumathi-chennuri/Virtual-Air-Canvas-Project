@@ -32,7 +32,7 @@ Air-Canvas/
 
 ## ⚙️ Installation
 1️⃣ Clone Repository
-git clone https://github.com//air-canvas.git
+git clone [https://github.com//air-canvas.git](https://github.com/Sumathi-chennuri/Virtual-Air-Canvas-Project.git)
 cd air-canvas
 2️⃣ Create Virtual Environment
 python -m venv venv
