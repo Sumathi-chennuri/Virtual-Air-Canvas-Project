@@ -21,7 +21,7 @@ A Virtual Air Canvas that allows users to draw on screen using hand gestures or 
 
 ## 📂 Project Structure
 
-Air-Canvas/
+-Air-Canvas/
 │── main.py
 │── requirements.txt
 │── README.md
@@ -31,35 +31,35 @@ Air-Canvas/
 
 
 ## ⚙️ Installation
-1️⃣ Clone Repository
+-1️⃣ Clone Repository
 git clone [https://github.com//air-canvas.git](https://github.com/Sumathi-chennuri/Virtual-Air-Canvas-Project.git)
 cd air-canvas
-2️⃣ Create Virtual Environment
+-2️⃣ Create Virtual Environment
 python -m venv venv
-3️⃣ Activate Environment
+-3️⃣ Activate Environment
 venv\Scripts\activate
-4️⃣ Install Dependencies
+-4️⃣ Install Dependencies
 pip install -r requirements.txt
-▶️ Run the Project
+-▶️ Run the Project
 python main.py
 
 
 ## 🎯 How It Works
-The webcam captures live video.
-A colored object (or finger) is detected.
-The position of the object is tracked.
-Based on position:
-Top area → Select color 🎨
-Drawing area → Draw ✍️
-Clear button → Erase 🧽
+-The webcam captures live video.
+-A colored object (or finger) is detected.
+-The position of the object is tracked.
+-Based on position:
+-Top area → Select color 🎨
+-Drawing area → Draw ✍️
+-Clear button → Erase 🧽
 
 
 ## 🕹️ Controls
-Action	Function
-Move pointer to top	Select color
-Move pointer below	Draw
-Move to CLEAR	Clear screen
-Press ESC or q	Exit
+-Action	Function
+-Move pointer to top	Select color
+-Move pointer below	Draw
+-Move to CLEAR	Clear screen
+-Press ESC or q	Exit
 
 
 ## 📸 Output
