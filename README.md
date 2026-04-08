@@ -17,8 +17,8 @@ A Virtual Air Canvas that allows users to draw on screen using hand gestures or 
 - Python
 - OpenCV
 - NumPy
-
-
+  
+```bash
 ## 📂 Project Structure
 
 -Air-Canvas/
@@ -26,10 +26,9 @@ A Virtual Air Canvas that allows users to draw on screen using hand gestures or 
 │── requirements.txt
 │── README.md
 │── .gitignore
-│── assets/
-│     └── demo.png
+│── Demo.png
 
-
+```
 ## ⚙️ Installation
 - 1️⃣ Clone Repository
 git clone [https://github.com//air-canvas.git](https://github.com/Sumathi-chennuri/Virtual-Air-Canvas-Project.git)
