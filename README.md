@@ -27,8 +27,10 @@ A Virtual Air Canvas that allows users to draw on screen using hand gestures or 
 │── README.md
 │── .gitignore
 │── Demo.png
+│── hand_landmarker.task
 
 ```
+
 ## ⚙️ Installation
 - 1️⃣ Clone Repository
 git clone [https://github.com//air-canvas.git](https://github.com/Sumathi-chennuri/Virtual-Air-Canvas-Project.git)
