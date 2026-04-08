@@ -2,7 +2,6 @@
 
 A Virtual Air Canvas that allows users to draw on screen using hand gestures or a colored pointer detected through a webcam.
 
----
 
 ## 🚀 Features
 
@@ -12,7 +11,6 @@ A Virtual Air Canvas that allows users to draw on screen using hand gestures or 
 - 📷 Real-time webcam tracking
 - 🖥️ Simple and interactive UI
 
----
 
 ## 🛠️ Technologies Used
 
@@ -20,7 +18,6 @@ A Virtual Air Canvas that allows users to draw on screen using hand gestures or 
 - OpenCV
 - NumPy
 
----
 
 ## 📂 Project Structure
 
@@ -31,6 +28,7 @@ Air-Canvas/
 │── .gitignore
 │── assets/
 │     └── demo.png
+
 
 ## ⚙️ Installation
 1️⃣ Clone Repository
@@ -45,6 +43,7 @@ pip install -r requirements.txt
 ▶️ Run the Project
 python main.py
 
+
 ## 🎯 How It Works
 The webcam captures live video.
 A colored object (or finger) is detected.
@@ -54,6 +53,7 @@ Top area → Select color 🎨
 Drawing area → Draw ✍️
 Clear button → Erase 🧽
 
+
 ## 🕹️ Controls
 Action	Function
 Move pointer to top	Select color
@@ -61,7 +61,8 @@ Move pointer below	Draw
 Move to CLEAR	Clear screen
 Press ESC or q	Exit
 
+
 ## 📸 Output
 🖥️ Drawing Interface
 
-<img width="804" height="650" alt="Screenshot 2026-04-08 150840" src="https://github.com/user-attachments/assets/731cfc7f-1e60-4d5d-9525-c1716c6746d6" />
+<img width="797" height="635" alt="Screenshot 2026-04-08 151146" src="https://github.com/user-attachments/assets/5a08de3e-6bd2-43a0-b181-e635348d0122" />
