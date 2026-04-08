@@ -63,5 +63,4 @@ Press ESC or q	Exit
 
 ## 📸 Output
 🖥️ Drawing Interface
-
-<img width="852" height="675" alt="Screenshot 2026-04-08 150002" src="https://github.com/user-attachments/assets/5edd4204-28ca-4ed4-9251-e86f0f7b529b" />
+<img width="804" height="650" alt="Screenshot 2026-04-08 150840" src="https://github.com/user-attachments/assets/3e8b12e1-ca6b-4c0a-bcc2-4851db85d3aa" />
